@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Пилипюк](https://up.htmlacademy.ru/javascript/18/user/941895).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Рябинин] (https://htmlacademy.ru/profile/haschish).
 
 ---
 
